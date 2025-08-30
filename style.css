@@ -48,7 +48,7 @@ body{
 .recipe-card{
     background-color: var(--clr-White);
     padding: 25px;
-    width: 550px;
+    width: 750px;
     border-radius: 10px;
 }
 
@@ -61,17 +61,17 @@ body{
 header h1{
     font-family: "young-serif";
     font-weight: 400;
-    font-size: 26px;
+    font-size: 30px;
     color: var(--clr-Stone-900);
     margin-bottom: 8px;
 }
 
 header p{
-    font-size: 12px;
+    font-size: 16px;
     font-weight: 400;
     font-family: "outfit";
     color: var(--clr-Stone-600);
-    line-height: 18px;
+    line-height: 20px;
     margin-bottom: 20px;
 }
 
@@ -96,7 +96,7 @@ header p{
     margin-bottom: 10px;
     color: var(--clr-Stone-600);
     font-weight: 400;
-    font-size: 12px;
+    font-size: 16px;
     padding-left: 15px;
 }   
 
@@ -111,7 +111,7 @@ li::marker{
 }
 
 main h3{
-    font-size: 20px;
+    font-size: 24px;
     font-family: "young-serif";
     font-weight: 400;
     letter-spacing: 1px;
@@ -126,7 +126,7 @@ main .ingredients-list{
 main .ingredients-list li{
     padding-left: 15px;
     color: var(--clr-Stone-600);
-    font-size: 12px;
+    font-size: 16px;
     font-weight: 400;
     font-family: "outfit";
     margin-bottom: 10px;
@@ -137,7 +137,7 @@ main ol{
 }
 
 main ol li::marker{
-    font-size: 12px;
+    font-size: 16px;
     font-family: "outfit";
     font-weight: 700;
 }
@@ -147,8 +147,8 @@ main ol li{
     margin-bottom: 8px;
     color: var(--clr-Stone-600);
     font-family: "outfit";
-    font-size: 12px;
-    line-height: 18px;
+    font-size: 16px;
+    line-height: 20px;
 }
 
 main ol strong{
@@ -163,7 +163,7 @@ footer h3{
 
 footer p{
     color: var(--clr-Stone-600);
-    font-size: 12px;
+    font-size: 16px;
     font-weight: 400;
     font-family: "outfit";
     margin-bottom: 10px;
@@ -177,7 +177,7 @@ table{
 td{
     padding: 10px 10px;
     border-bottom: 1px solid var(--clr-Stone-100);
-    font-size: 12px;
+    font-size: 16px;
     font-family: "outfit";
 }
 
